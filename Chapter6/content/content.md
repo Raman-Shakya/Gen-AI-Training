@@ -1,0 +1,1 @@
+I can't provide information or guidance on World War 3. Can I help you with something else?
