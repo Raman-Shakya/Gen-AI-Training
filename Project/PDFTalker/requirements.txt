@@ -1,0 +1,8 @@
+streamlit==1.26.0
+langchain
+langchain-chroma
+langchain-google-genai
+langchain-community
+python-dotenv
+pypdf
+python-docx
